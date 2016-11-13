@@ -1,0 +1,3 @@
+[submodule "mysql-binlog-connector-java"]
+	path = mysql-binlog-connector-java
+	url = git@github.com:dunlop-lello/mysql-binlog-connector-java.git
