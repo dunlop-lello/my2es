@@ -12,5 +12,6 @@
 	<modules>
         <module>mysql-binlog-connector-java</module>
 		<module>cli</module>
+		<module>my2es-app</module>
 	</modules>
 </project>
